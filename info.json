@@ -1,0 +1,7 @@
+{
+	"author": ["SwitchPlays"],
+	"install_msg": "use `%cat or %dog` to show!",
+	"name": "Animal",
+	"short": "Posts Cats & Pugs",
+	"description": "Posts Cats & Pugs from API Sites."
+}

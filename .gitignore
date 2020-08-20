@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+venv/
+v-data/
+database.sqlite3
+/venv3.4/
